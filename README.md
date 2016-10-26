@@ -3,6 +3,6 @@
 
 -2016/10/26
 
-由于RubyGems被墙和OpenSSL问题，弃用jekyll，日后再更。。。
+由于RubyGems被墙和OpenSSL问题，弃用jekyll，日后再更...(其实是我不会.)
 
 -2016/10/26
